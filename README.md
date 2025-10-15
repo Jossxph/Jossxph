@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy [Jossxph](https://github.com/jossxph)
 
 <div align="center">
-  <img src="https://i.imgur.com/itw6asH.jpeg" alt="Banner de Jossxph" width="100%" />
+  <img src="https://imgur.com/a/C2isej5" alt="Banner de Jossxph" width="100%" />
 </div>
 
 <div align="center">
