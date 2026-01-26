@@ -1,149 +1,190 @@
 # 👋 ¡Hola! Soy [Jossxph](https://github.com/jossxph)
 
+
+
 <div align="center">
-  <img src="https://i.imgur.com/dPMcgzg.png" alt="Banner de Jossxph" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,13,12&height=200&section=header&text=Web%20Developer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 </div>
 
 <div align="center">
   
-  [![Contador de Visitas](https://visitcount.itsvg.in/api?id=Jossxph&icon=2&color=0)](https://visitcount.itsvg.in)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Programmer+%7C+Web+Developer;Graphic+Designer;Learning+%26+Building+Every+Day" alt="Typing SVG" />
   
 </div>
 
 ---
 
-## 🚀 Sobre Mí
+## 🎯 Sobre Mí
 
-Soy un **desarrollador de software apasionado** con un gran interés en la **inteligencia artificial** y las tecnologías emergentes. Me encanta crear soluciones innovadoras y colaborar en proyectos que tengan un impacto positivo.
+> **Programmer | Web Developer | Graphic Designer**
+
+Soy un desarrollador web apasionado por crear soluciones completas desde el diseño hasta la implementación. Me encanta la parte de **planificación y estructura de proyectos** porque me permite visualizar el resultado final antes de comenzar. Actualmente estoy en mi etapa de aprendizaje, construyendo sistemas educativos, aplicaciones web y móviles, y experimentando con IA.
 
 ```javascript
 const jossxph = {
-    ubicación: "🌎 Perú",
-    intereses: ["Desarrollo de Software", "Inteligencia Artificial", "Machine Learning"],
-    aprendiendo: ["Técnicas Avanzadas de Deep Learning", "Procesamiento de Lenguaje Natural"],
-    colaborando: "Proyectos Open Source de NLP",
-    contacto: "jossxph@gmail.com",
-    datoCurioso: "🌍 Amo aprender idiomas - actualmente perfeccionando mi inglés!"
+    ubicación: "🇵🇪 Perú",
+    roles: ["Programmer", "Web Developer", "Graphic Designer"],
+    
+    desarrollo: {
+        backend: ["Java"],
+        frontend: ["Astro"],
+        aprendiendo: ["Next.js", "Angular"],
+        intereses: ["Aplicaciones Web", "Apps Móviles", "Integración de IA"]
+    },
+    
+    fortalezas: [
+        "Planificación y organización de proyectos",
+        "Definición clara de objetivos y alcance",
+        "Responsabilidad y disciplina diaria",
+        "Diseño y desarrollo integral"
+    ],
+    
+    filosofía: "Me apasiona ver cómo un proyecto planificado toma forma. " +
+               "No siempre sale perfecto, pero cada proyecto es una oportunidad de aprender.",
 };
 ```
 
 ---
 
-## 🌐 Conéctate Conmigo
+## 🌐 Conecta Conmigo
 
 <div align="center">
   
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CyZrWzAr7n)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jossxph)
-  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@josxphmc)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@@jossxph)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jossxph@gmail.com)
-  
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jossxph@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jossxph)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](jossxph)
+
 </div>
 
 ---
 
-## 💻 Stack Tecnológico
+## 🛠️ Stack
 
-### 🎨 Frontend
+### 💻 Desarrollo Web
+
+<div align="center">
+
+**Backend**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Frontend**  
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔧 Backend & Lenguajes
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+**Aprendiendo**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### 🗄️ Base de Datos
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>
+
+### 🗄️ Bases de Datos
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-### ☁️ Plataformas de Despliegue
+</div>
+
+### 🎨 Diseño & Herramientas
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+### ☁️ Deployment
+
+<div align="center">
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### 🎨 Diseño & Creatividad
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+</div>
+
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📈 Actividad de Contribución
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jossxph&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jossxph&layout=compact&langs_count=7&theme=tokyonight"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jossxph&theme=tokyonight" alt="Racha de GitHub"/>
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jossxph&custom_title=Gráfico%20de%20Actividad&bg_color=0d1117&color=3b82f6&line=1f6feb&point=3b82f6&area_color=3b82f6&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🏆 Logros de GitHub
+## 🎯 Mi Enfoque de Trabajo
+
+<table>
+<tr>
+<td width="50%">
+
+### 📋 Planificación
+- Estructuración clara de proyectos
+- Definición de objetivos y alcance
+- Documentación del proceso
+- Visualización del resultado final
+
+</td>
+<td width="50%">
+
+### 🔨 Desarrollo
+- Trabajo constante y organizado
+- Responsabilidad diaria
+- Aprendizaje continuo
+- Iteración y mejora
+
+</td>
+</tr>
+</table>
+
+## 💭 Mi Filosofía
 
 <div align="center">
-  
-  ![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Jossxph&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-  
+
+> *"Me encanta planificar y estructurar proyectos para visualizar el resultado final. No siempre sale perfecto, pero la curiosidad de ver cómo toma forma lo que planifiqué es lo que me motiva a seguir aprendiendo y mejorando cada día."*
+
 </div>
 
 ---
 
-## 🎯 Objetivos Actuales
+## 🤝 ¿Quieres Colaborar?
 
-- 🔥 Dominar técnicas avanzadas de **Deep Learning**
-- 🤖 Contribuir a proyectos de **IA Open Source**
-- 📚 Perfeccionar mi inglés técnico
-- 🌱 Explorar nuevas tecnologías emergentes
-- 🤝 Colaborar en proyectos innovadores
+<div align="center">
+
+Estoy abierto a colaborar en proyectos, compartir conocimientos y aprender junto a otros desarrolladores.
+
+### 📬 Contáctame
+
+[![Email](https://img.shields.io/badge/Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jossxph@gmail.com)
 
 ---
 
-## 💭 Frase Motivacional del Día
+### ⭐ Si encuentras útil alguno de mis proyectos
 
-<div align="center">
-  
-  ![Cita de Desarrollador](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
+- Dale una estrella ⭐ a los repositorios que te gusten
+- Comparte feedback y sugerencias
+- Colabora si tienes ideas para mejorar
 
----
-
-## 📈 Actividad de Contribuciones
-
-<div align="center">
-  
-  ![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=Jossxph&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
-  
-</div>
+*Cada proyecto es una oportunidad para aprender algo nuevo* 
 
 ---
 
-<div align="center">
-  
-  ### 💼 ¿Interesado en colaborar?
-  
-  **¡Siempre estoy abierto a nuevas oportunidades y proyectos emocionantes!**
-  
-  📧 **Contáctame:** [jossxph@gmail.com](mailto:jossxph@gmail.com)
-  
-  ---
-  
-  *"El código es poesía escrita en lógica"* ✨
-  
-  ⭐ **¡No olvides darle estrella a mis repositorios si te parecen útiles!** ⭐
-  
+![Profile Views](https://komarev.com/ghpvc/?username=jossxph&color=3b82f6&style=for-the-badge&label=VISITAS+AL+PERFIL)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,13,12&height=100&section=footer" width="100%"/>
+
 </div>
